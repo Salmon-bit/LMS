@@ -3,5 +3,7 @@
 *.jsonlines
 *.json
 .venv
+venv
 __pycache__
 .idea
+!requirements.txt
